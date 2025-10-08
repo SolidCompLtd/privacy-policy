@@ -1,6 +1,3 @@
-# privacy-policy
-RealityTwin Privacy Policy
-
 # Privacy Policy for [Reality Twin]
 
 Effective date: [10 08, 2025]
