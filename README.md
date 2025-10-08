@@ -1,8 +1,8 @@
-# Privacy Policy for [Reality Twin]
+# Privacy Policy for Reality Twin
 
-Effective date: [10 08, 2025]
+Effective date: 8.10.2025
 
-This Privacy Policy describes how [SolidComp Oy] ("we", "our", or "us") handles information collected by the [Reality Twin] mobile application ("the App").
+This Privacy Policy describes how SolidComp Oy ("we", "our", or "us") handles information collected by the Reality Twin mobile application ("the App").
 
 ## 1. Overview
 
@@ -38,5 +38,5 @@ We may update this Privacy Policy periodically. Updates will be posted on this p
 ## 7. Contact
 
 If you have any questions about this Privacy Policy or our data handling practices, please contact us at:  
-**Email:** [info@solidcomp.fi]
+**Email:** info@solidcomp.fi
 
